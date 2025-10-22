@@ -31,7 +31,7 @@ public abstract class MicroGameManager : MonoBehaviour {
     }
 
     // Update is called once per frame
-    void Update()
+    protected void Update()
     {
         if (gameActive) {
             currentGameTime -= Time.deltaTime;
