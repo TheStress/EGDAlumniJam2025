@@ -255,10 +255,14 @@ MonoBehaviour:
   OnEndMicroGameEvent:
     m_PersistentCalls:
       m_Calls: []
-  candyPrefab: {fileID: 5139484052219227838, guid: 1f961abe3f1292c46b8acc05318148b8, type: 3}
-  bladePrefab: {fileID: 7425043914618282439, guid: 80a397740c11e9644ac48630914f7ca9, type: 3}
+  candyPrefabs:
+  - {fileID: 5139484052219227838, guid: 1f961abe3f1292c46b8acc05318148b8, type: 3}
+  - {fileID: 8070930073750354327, guid: a1d930afc06c52348bccb14895bb862e, type: 3}
+  - {fileID: 8070930073750354327, guid: fa7b26f2cf330b24ea951177361f12be, type: 3}
+  - {fileID: 8070930073750354327, guid: 4b2c1cfe4967d4e4cbec300ff449fb1f, type: 3}
+  - {fileID: 8070930073750354327, guid: 349e8103c71715b44ae21201d0b79571, type: 3}
   spawnAmountRange: {x: 5, y: 8}
-  spawnArea: {x: 5, y: 5}
+  spawnArea: {x: 5, y: 4}
 --- !u!1 &2029598641
 GameObject:
   m_ObjectHideFlags: 0
