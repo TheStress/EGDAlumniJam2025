@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 9275c50a084cad547a1f9425fd1ffa1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7296932778578853912
+    second: KP_Light_0000_0
+  - first:
+      213: -3667754395867444850
+    second: KP_Light_0000_1
+  - first:
+      213: -7597373860863365459
+    second: KP_Light_0000_2
+  - first:
+      213: 4210353575478187558
+    second: KP_Light_0000_3
+  - first:
+      213: -8342854448187323798
+    second: KP_Light_0000_4
+  - first:
+      213: 259678200297765039
+    second: KP_Light_0000_5
+  - first:
+      213: -2400511655829852199
+    second: KP_Light_0000_6
+  - first:
+      213: 136696327466975463
+    second: KP_Light_0000_7
+  - first:
+      213: -5383433089414666687
+    second: KP_Light_0000_8
+  - first:
+      213: 7391948733273226748
+    second: KP_Light_0000_9
+  - first:
+      213: -331813804046031120
+    second: KP_Light_0000_10
+  - first:
+      213: -9181392833731912060
+    second: KP_Light_0000_11
+  - first:
+      213: -815266179819834573
+    second: KP_Light_0000_12
+  - first:
+      213: -6724417099701638574
+    second: KP_Light_0000_13
+  - first:
+      213: 8869526688393877454
+    second: KP_Light_0000_14
+  - first:
+      213: -655434184593282230
+    second: KP_Light_0000_15
+  - first:
+      213: 6585505311546713386
+    second: KP_Light_0000_16
+  - first:
+      213: 8915114585357235013
+    second: KP_Light_0000_17
+  - first:
+      213: 4369925488509549666
+    second: KP_Light_0000_18
+  - first:
+      213: 8577452475771251451
+    second: KP_Light_0000_19
+  - first:
+      213: -3971860741316567219
+    second: KP_Light_0000_20
+  - first:
+      213: 7100345336137201550
+    second: KP_Light_0000_21
+  - first:
+      213: -2875621088140914501
+    second: KP_Light_0000_22
+  - first:
+      213: -6221952965126684800
+    second: KP_Light_0000_23
+  - first:
+      213: -4040406218087657491
+    second: KP_Light_0000_24
+  - first:
+      213: -4766744108074321447
+    second: KP_Light_0000_25
+  - first:
+      213: 4944913514902473288
+    second: KP_Light_0000_26
+  - first:
+      213: 4580633361210605634
+    second: KP_Light_0000_27
+  - first:
+      213: 1488894618211553992
+    second: KP_Light_0000_28
+  - first:
+      213: -2886270412941983187
+    second: KP_Light_0000_29
+  - first:
+      213: -5209674336983125271
+    second: KP_Light_0000_30
+  - first:
+      213: 710578872188647861
+    second: KP_Light_0000_31
+  - first:
+      213: 936232463328779431
+    second: KP_Light_0000_32
+  - first:
+      213: -8466862898730634253
+    second: KP_Light_0000_33
+  - first:
+      213: -1731684542122989204
+    second: KP_Light_0000_34
+  - first:
+      213: -3332954399561829769
+    second: KP_Light_0000_35
+  - first:
+      213: -5839052305746428633
+    second: KP_Light_0000_36
+  - first:
+      213: -5829906918530099411
+    second: KP_Light_0000_37
+  - first:
+      213: -8480167815486340010
+    second: KP_Light_0000_38
+  - first:
+      213: 7205754675548061426
+    second: KP_Light_0000_39
+  - first:
+      213: 2303621757610435178
+    second: KP_Light_0000_40
+  - first:
+      213: 9171583045932486401
+    second: KP_Light_0000_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KP_Light_0000_0
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 328
+        width: 365
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef37e67c461cba90800000000000000
+      internalID: -7296932778578853912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 391
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8981fe3fc4891dc0800000000000000
+      internalID: -3667754395867444850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daea665e9b4b09690800000000000000
+      internalID: -7597373860863365459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 336
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6265c2df44e2e6a30800000000000000
+      internalID: 4210353575478187558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 335
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac10be41a383c80800000000000000
+      internalID: -8342854448187323798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 355
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa839a482ff8a9300800000000000000
+      internalID: 259678200297765039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 344
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfa3131e5bafaed0800000000000000
+      internalID: -2400511655829852199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 341
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e005c8e594a5e100800000000000000
+      internalID: 136696327466975463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ea59b0243a45b0800000000000000
+      internalID: -5383433089414666687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 345
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd36ac653a759660800000000000000
+      internalID: 7391948733273226748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 319
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e34e6a19256bf0800000000000000
+      internalID: -331813804046031120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e9712ecd3259080800000000000000
+      internalID: -9181392833731912060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 327
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f27a9ab79fa4f0800000000000000
+      internalID: -815266179819834573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 316
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa8ba76421ea2a0800000000000000
+      internalID: -6724417099701638574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 321
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75093c783e61b70800000000000000
+      internalID: 8869526688393877454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 329
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b6bade41e67e6f0800000000000000
+      internalID: -655434184593282230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 322
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a039703a646b50800000000000000
+      internalID: 6585505311546713386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 319
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433f182b79d8bb70800000000000000
+      internalID: 8915114585357235013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7985341815ac30800000000000000
+      internalID: 4369925488509549666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 334
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae328d49b390770800000000000000
+      internalID: 8577452475771251451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f918813bd11e8c0800000000000000
+      internalID: -3971860741316567219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_21
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 327
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e873f07c67e798260800000000000000
+      internalID: 7100345336137201550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 294
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb01db42bddb718d0800000000000000
+      internalID: -2875621088140914501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_23
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7f685ebe27a9a0800000000000000
+      internalID: -6221952965126684800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0b9e93f79de7c0800000000000000
+      internalID: -4040406218087657491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 312
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d93b0f2d7f19ddb0800000000000000
+      internalID: -4766744108074321447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_26
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a4acc74acdf9440800000000000000
+      internalID: 4944913514902473288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 250
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2400345d5cda19f30800000000000000
+      internalID: 4580633361210605634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_28
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 303
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c29d7a44cd99a410800000000000000
+      internalID: 1488894618211553992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 294
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228fdef958e1f7d0800000000000000
+      internalID: -2886270412941983187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 303
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f6a4eac483b7b0800000000000000
+      internalID: -5209674336983125271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 299
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b3bd28bb7cd900800000000000000
+      internalID: 710578872188647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_32
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 271
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac96eb077a2efc00800000000000000
+      internalID: 936232463328779431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 288
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f93f8d09af7a80800000000000000
+      internalID: -8466862898730634253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6969b37512d7f7e0800000000000000
+      internalID: -1731684542122989204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 270
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ba81e1a7feb1d0800000000000000
+      internalID: -3332954399561829769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dfe035dd487fea0800000000000000
+      internalID: -5839052305746428633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_37
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 245
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27db67bb82081fa0800000000000000
+      internalID: -5829906918530099411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_38
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6548c3a3d44605a80800000000000000
+      internalID: -8480167815486340010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_39
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 226
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fef6ae13bbfff360800000000000000
+      internalID: 7205754675548061426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622b3f88cb18ff10800000000000000
+      internalID: 2303621757610435178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Light_0000_41
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f0dc8ef22084f70800000000000000
+      internalID: 9171583045932486401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10bf3fcdcb4b9f6418fbab02fc8c4bd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KP_Light_0000_0: -7296932778578853912
+      KP_Light_0000_1: -3667754395867444850
+      KP_Light_0000_10: -331813804046031120
+      KP_Light_0000_11: -9181392833731912060
+      KP_Light_0000_12: -815266179819834573
+      KP_Light_0000_13: -6724417099701638574
+      KP_Light_0000_14: 8869526688393877454
+      KP_Light_0000_15: -655434184593282230
+      KP_Light_0000_16: 6585505311546713386
+      KP_Light_0000_17: 8915114585357235013
+      KP_Light_0000_18: 4369925488509549666
+      KP_Light_0000_19: 8577452475771251451
+      KP_Light_0000_2: -7597373860863365459
+      KP_Light_0000_20: -3971860741316567219
+      KP_Light_0000_21: 7100345336137201550
+      KP_Light_0000_22: -2875621088140914501
+      KP_Light_0000_23: -6221952965126684800
+      KP_Light_0000_24: -4040406218087657491
+      KP_Light_0000_25: -4766744108074321447
+      KP_Light_0000_26: 4944913514902473288
+      KP_Light_0000_27: 4580633361210605634
+      KP_Light_0000_28: 1488894618211553992
+      KP_Light_0000_29: -2886270412941983187
+      KP_Light_0000_3: 4210353575478187558
+      KP_Light_0000_30: -5209674336983125271
+      KP_Light_0000_31: 710578872188647861
+      KP_Light_0000_32: 936232463328779431
+      KP_Light_0000_33: -8466862898730634253
+      KP_Light_0000_34: -1731684542122989204
+      KP_Light_0000_35: -3332954399561829769
+      KP_Light_0000_36: -5839052305746428633
+      KP_Light_0000_37: -5829906918530099411
+      KP_Light_0000_38: -8480167815486340010
+      KP_Light_0000_39: 7205754675548061426
+      KP_Light_0000_4: -8342854448187323798
+      KP_Light_0000_40: 2303621757610435178
+      KP_Light_0000_41: 9171583045932486401
+      KP_Light_0000_5: 259678200297765039
+      KP_Light_0000_6: -2400511655829852199
+      KP_Light_0000_7: 136696327466975463
+      KP_Light_0000_8: -5383433089414666687
+      KP_Light_0000_9: 7391948733273226748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
