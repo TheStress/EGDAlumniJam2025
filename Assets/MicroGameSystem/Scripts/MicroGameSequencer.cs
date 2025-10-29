@@ -17,6 +17,7 @@ namespace MicroGameSystem {
             }
             currentlyLoadedScene = GetRandomSceneName();
             yield return SceneManager.LoadSceneAsync(currentlyLoadedScene, LoadSceneMode.Additive);
+            SceneManager.SetActiveScene(SceneManager.GetSceneByName(currentlyLoadedScene));
             OnCompleteSceneLoad.Invoke();
         }
 

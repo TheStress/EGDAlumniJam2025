@@ -2410,7 +2410,7 @@ MonoBehaviour:
   numOfGamesWon: 0
   increaseSpeedThreshold: 1
   numOfSuccesses: 0
-  microGameTimerBase: 5
+  microGameTimerBase: 10
   timerFactor: 1
   speedUpAmount: 0.2
   timeMinimum: 0.4
@@ -2446,8 +2446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   microGameSeneNames:
-  - Test2D
-  - Test3D
+  - NLFindRazorBlade
   OnCompleteSceneLoad:
     m_PersistentCalls:
       m_Calls: []
