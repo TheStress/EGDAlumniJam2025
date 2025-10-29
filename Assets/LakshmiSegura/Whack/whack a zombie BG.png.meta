@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0ebb7584218334ae3a2720be44f27e1f
+guid: 2e63dffa5f6164cb9b798bfad51cc69b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: whack a zombie FOREGROUND
+      name: whack a zombie BG_0
       rect:
         serializedVersion: 2
         x: 0
@@ -105,15 +105,15 @@ TextureImporter:
         width: 960
         height: 720
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c9641e223b14444e81795cc8fe61eee
-      internalID: 1090352957
+      spriteID: ce014ecb9192d4cefafb065ae25a3572
+      internalID: 809070872
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d3862d809736d4125938474a2e3c0611
+    spriteID: 2ebec63fa58bd4ee4bcb63497cc73f8e
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      whack a zombie FOREGROUND: 1090352957
+      whack a zombie BG_0: 809070872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
