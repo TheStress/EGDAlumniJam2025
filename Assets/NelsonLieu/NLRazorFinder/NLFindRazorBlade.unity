@@ -252,6 +252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   win: 0
   startingText: Find the Razor!
+  instructionType: 1
   OnEndMicroGameEvent:
     m_PersistentCalls:
       m_Calls: []

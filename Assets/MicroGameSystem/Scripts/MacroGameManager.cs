@@ -27,6 +27,7 @@ namespace MicroGameSystem {
         [SerializeField] GameObject cameraObject;
         [SerializeField] Animator housesAnimmator;
         [SerializeField] Animator textAnimator;
+        [SerializeField] Animator instructionImageAnimator;
         HealthUIController healthUIController;
         HouseSmearJuice houseSmearJuice;
 
@@ -43,7 +44,8 @@ namespace MicroGameSystem {
             houseSmearJuice = FindFirstObjectByType<HouseSmearJuice>();
             microGameSequencer = GetComponent<MicroGameSequencer>();
             houseSmearJuice.OnCompleteEffect.AddListener(OnCompleteHouseTransition);
-            microGameSequencer.OnCompleteSceneLoad.AddListener(StartMicroGame);
+            microGameSequencer.OnCompleteSceneLoad.AddListener(TriggerInstructionAnimation);
+            instructionImageAnimator.GetComponent<EndOfAnimationTrigger>().onEndAnimation.AddListener(StartMicroGame);
             currentLives = maxLives;
         }
 
@@ -60,6 +62,21 @@ namespace MicroGameSystem {
             StartCoroutine(microGameSequencer.SpawnNextMicroGame());
         }
 
+        public void TriggerInstructionAnimation() {
+            currentMicroGameManager = FindFirstObjectByType<MicroGameManager>();
+            switch (currentMicroGameManager.GetInstructionType()) {
+                case InputInstructionType.KEYBOARD:
+                    instructionImageAnimator.Play("KeyboardOnScreen");
+                    break;
+                case InputInstructionType.MOUSE:
+                    instructionImageAnimator.Play("MouseOnScreen");
+                    break;
+                case InputInstructionType.BOTH:
+                    instructionImageAnimator.Play("MouseAndKeyboardOnScreen");
+                    break;
+            }
+        }
+
         public void StartMicroGame() {
             FindFirstObjectByType<MicroGameTimerUI>().ResetSlider();
             cameraObject.SetActive(false); // Disable the game loop camera
@@ -67,7 +84,6 @@ namespace MicroGameSystem {
         }
 
         public void OnEndOpenZoom() {
-            currentMicroGameManager = FindFirstObjectByType<MicroGameManager>();
             currentMicroGameManager.InitalizeGameManagerData(microGameTimerBase * timerFactor);
             currentMicroGameManager.OnEndMicroGameEvent.AddListener(OnCompleteMicroGame);
             FindFirstObjectByType<MicroGameTimerUI>().SetOwner(currentMicroGameManager);
@@ -110,8 +126,11 @@ namespace MicroGameSystem {
                 textAnimator.Play("SpeedUp");
                 numOfSuccesses = 0;
                 timerFactor = Mathf.Max(timeMinimum, timerFactor - speedUpAmount);
-                housesAnimmator.speed = 1 + (1 - timerFactor);
-                textAnimator.speed = 1 + (1 - timerFactor);
+
+                float newAnimationSpeed = 1 + (1 - timerFactor);
+                housesAnimmator.speed = newAnimationSpeed;
+                textAnimator.speed = newAnimationSpeed;
+                instructionImageAnimator.speed = newAnimationSpeed;
             }
         }
         private void LostGame() {
