@@ -7,17 +7,14 @@ namespace Bian {
         private RitualGameManager gameManager;
         [SerializeField] private SpriteRenderer sprite;
 
-        private RitualItemType itemType;
+        [SerializeField] private RitualItemType itemType;
 
 		private RitualItem placedItem = null;
 
 		private bool isHovering;
 
-		public void SetItemType(RitualItemType type, Color color) {
-			itemType = type;
-
-			color = new Color(color.r, color.g, color.b, 0.3f);
-			sprite.color = color;
+		public void SetItemType(int itemIndex) {
+			itemType = (RitualItemType)(itemIndex + 1);
 		}
 
 		public RitualItemType GetItemType() {

@@ -5,20 +5,25 @@ using System.Collections.Generic;
 namespace Bian {
     public enum RitualItemType {
         None,
-        Type1,
-        Type2,
-        Type3,
-        Type4,
-        Type5
+        BatWing,
+        Eye,
+        Hair,
+        Mushroom,
+        RatTail
     }
 
     public class RitualGameManager : MicroGameManager {
         public const int itemCount = 5;
 
-        public Color[] itemColors = new Color[itemCount];
+        //public Color[] itemColors = new Color[itemCount];
+        public List<Sprite> itemSprites = new List<Sprite>();
+        public List<Sprite> itemIconSprites = new List<Sprite>();
+        public List<Sprite> spotSprites = new List<Sprite>();
 
-        public List<RitualItem> items = new List<RitualItem>();
+		public List<RitualItem> items = new List<RitualItem>();
         public List<RitualSpot> spots = new List<RitualSpot>();
+        public List<RitualSpot> spotsCopy = new List<RitualSpot>();
+        public List<SpriteRenderer> icons = new List<SpriteRenderer>();
 
         private RitualItem currentHeldItem;
 
@@ -38,25 +43,32 @@ namespace Bian {
         private void Start() {
             List<RitualItem> shuffledItems = new List<RitualItem>();
             for (int i = 0; i < itemCount; i++) {
-                Debug.Log(items.Count);
                 int randomIndex = Random.Range(0, items.Count - 1);
                 RitualItem randomItem = items[randomIndex];
-                randomItem.SetItemType((RitualItemType)(i + 1), itemColors[i]);
+                randomItem.SetItemType(i);
 
 				shuffledItems.Add(randomItem);
                 items.RemoveAt(randomIndex);
             }
             items = shuffledItems;
 
-		    List<RitualSpot> shuffledSpots = new List<RitualSpot>();
+            spotsCopy = new List<RitualSpot>(spots);
+			List<RitualSpot> shuffledSpots = new List<RitualSpot>();
 			for (int i = 0; i < itemCount; i++) {
-				int randomIndex = Random.Range(0, items.Count - 1);
+				int randomIndex = Random.Range(0, spots.Count - 1);
 				RitualSpot randomSpot = spots[randomIndex];
-				randomSpot.SetItemType((RitualItemType)(i + 1), itemColors[i]);
+				randomSpot.SetItemType(i);
 
 				shuffledSpots.Add(randomSpot);
 				spots.RemoveAt(randomIndex);
 			}
+			spots = shuffledSpots;
+
+            for (int i = 0; i < itemCount; i++) {
+                RitualItemType spotItemType = spotsCopy[i].GetItemType();
+                icons[i].sprite = itemIconSprites[(int)spotItemType - 1];
+            }
+
 		}
 
 	    public override void OnStartMicroGame() {

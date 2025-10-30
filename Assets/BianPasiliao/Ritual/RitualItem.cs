@@ -13,9 +13,9 @@ namespace Bian {
         private RitualSpot placedSpot = null;
 
 
-		public void SetItemType(RitualItemType type, Color color) {
-			itemType = type;
-			sprite.color = color;
+		public void SetItemType(int itemIndex) {
+			itemType = (RitualItemType)(itemIndex + 1);
+			sprite.sprite = gameManager.itemSprites[itemIndex];
 		}
 
 		public RitualItemType GetItemType() {
