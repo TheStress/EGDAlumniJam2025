@@ -38,6 +38,7 @@ namespace Bian {
             }
 
             win = tempWin;
+            Debug.Log("win");
         }
 
         private void Start() {

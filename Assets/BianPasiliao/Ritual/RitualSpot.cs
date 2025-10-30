@@ -39,7 +39,6 @@ namespace Bian {
 			if (!isHovering && isHit) {
 				isHovering = true;
 
-				Debug.Log("mouse entered spot");
 				RitualItem heldItem = gameManager.GetHeldItem();
 				if (heldItem != null && placedItem == null) {
 					heldItem.PlaceOnSpot(this);

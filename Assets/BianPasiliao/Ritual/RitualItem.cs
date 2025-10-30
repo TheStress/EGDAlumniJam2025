@@ -23,18 +23,19 @@ namespace Bian {
         }
 
         public void PlaceOnSpot(RitualSpot spot) {
-			Debug.Log("item placed");
             placedSpot = spot;
 			transform.position = spot.transform.position;
 			gameManager.CheckWin();
 		}
 
 		public void RemoveFromSpot() {
-			Debug.Log("item removed");
 			placedSpot = null;
 		}
 
 		public bool CheckIfCorrect() {
+			if (placedSpot == null) {
+				return false;
+			}
 			return itemType == placedSpot.GetItemType();
 		}
 
@@ -50,7 +51,6 @@ namespace Bian {
 				if (hit.collider.gameObject == this.gameObject) {
 
 					if (Input.GetMouseButtonDown(0)) {
-						Debug.Log("mouse down on item");
 						gameManager.UpdateHeldItem(this);
 						RemoveFromSpot();
 					}
