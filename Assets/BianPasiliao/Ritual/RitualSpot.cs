@@ -1,35 +1,65 @@
 using UnityEngine;
+using System.Collections;
 
-namespace Bian
-{
+namespace Bian {
 
-    public class RitualSpot : MonoBehaviour
-    {
+    public class RitualSpot : MonoBehaviour {
         private RitualGameManager gameManager;
         [SerializeField] private SpriteRenderer sprite;
 
-        [SerializeField] private RitualItemType itemType;
+        private RitualItemType itemType;
 
-        private bool hasCorrectItem = false;
+		private RitualItem placedItem = null;
 
-        private void Start()
-        {
+		private bool isHovering;
+
+		public void SetItemType(RitualItemType type, Color color) {
+			itemType = type;
+
+			color = new Color(color.r, color.g, color.b, 0.3f);
+			sprite.color = color;
+		}
+
+		public RitualItemType GetItemType() {
+			return itemType;
+		}
+
+		private void Start() {
             gameManager = FindAnyObjectByType<RitualGameManager>().GetComponent<RitualGameManager>();
-            Color itemColor = gameManager.itemColors[(int)itemType - 1];    // -1 to skip None
-            itemColor = new Color(itemColor.r, itemColor.g, itemColor.b, 0.3f);
-            sprite.color = itemColor;
         }
 
-        private void OnMouseEnter()
-        {
-            RitualItem heldItem = gameManager.GetHeldItem();
-            if (heldItem != null)
-            {
-                heldItem.transform.position = transform.position;
-            }
+		private void Update() {
+			Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+			RaycastHit[] hits = Physics.RaycastAll(ray);
 
-            hasCorrectItem = gameManager.GetHeldItemType() == itemType;
-        }
-    }
+			bool isHit = false;
+			foreach (RaycastHit hit in hits) {
+				if (hit.collider.gameObject == this.gameObject) {
+					isHit = true;
+				}
+			}
+
+			if (!isHovering && isHit) {
+				isHovering = true;
+
+				Debug.Log("mouse entered spot");
+				RitualItem heldItem = gameManager.GetHeldItem();
+				if (heldItem != null && placedItem == null) {
+					heldItem.PlaceOnSpot(this);
+					placedItem = heldItem;
+				}
+
+			} else if (isHovering && !isHit) {
+				isHovering = false;
+
+				RitualItem heldItem = gameManager.GetHeldItem();
+				if (heldItem != null) {
+					heldItem.RemoveFromSpot();
+					placedItem = null;
+				}
+			}
+		}
+
+	}
 }
 
