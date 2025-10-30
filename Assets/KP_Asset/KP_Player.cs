@@ -4,6 +4,7 @@ public class KP_Player : MonoBehaviour
 {
     public GameObject objectToSpawnPrefab;
     public Transform spawnPoint;
+    public AudioSource buttonSound;
 
     public float moveSpeed = 5f; // Adjust speed in the Inspector
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -33,7 +34,8 @@ public class KP_Player : MonoBehaviour
         {
             Instantiate(objectToSpawnPrefab, spawnPoint.position, Quaternion.identity);
             FindFirstObjectByType<KP_GhostGM>().win = true;
+
         }
-        }
+    }
    
 }
