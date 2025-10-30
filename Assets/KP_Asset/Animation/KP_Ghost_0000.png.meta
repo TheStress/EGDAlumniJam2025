@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: d06c78f7de404b541a9bb62dffc76969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6543138400173121278
+    second: KP_Ghost_0000_0
+  - first:
+      213: -193691477339745477
+    second: KP_Ghost_0000_1
+  - first:
+      213: 8380943570620622951
+    second: KP_Ghost_0000_2
+  - first:
+      213: -545735487247993258
+    second: KP_Ghost_0000_3
+  - first:
+      213: -199260651079150063
+    second: KP_Ghost_0000_4
+  - first:
+      213: 9080277069770216675
+    second: KP_Ghost_0000_5
+  - first:
+      213: 2018953925626440491
+    second: KP_Ghost_0000_6
+  - first:
+      213: -2783946190143918118
+    second: KP_Ghost_0000_7
+  - first:
+      213: -3671190084197613992
+    second: KP_Ghost_0000_8
+  - first:
+      213: -1857242232853379597
+    second: KP_Ghost_0000_9
+  - first:
+      213: -5939926840218998748
+    second: KP_Ghost_0000_10
+  - first:
+      213: -6754587982199380078
+    second: KP_Ghost_0000_11
+  - first:
+      213: -5091582398754476941
+    second: KP_Ghost_0000_12
+  - first:
+      213: -6343589395692672103
+    second: KP_Ghost_0000_13
+  - first:
+      213: 5135781624415394378
+    second: KP_Ghost_0000_14
+  - first:
+      213: 3950552495858099341
+    second: KP_Ghost_0000_15
+  - first:
+      213: 6059439211091382372
+    second: KP_Ghost_0000_16
+  - first:
+      213: 4650014858716922549
+    second: KP_Ghost_0000_17
+  - first:
+      213: 9106998759957393819
+    second: KP_Ghost_0000_18
+  - first:
+      213: -8681867706652954069
+    second: KP_Ghost_0000_19
+  - first:
+      213: 7209895358161579332
+    second: KP_Ghost_0000_20
+  - first:
+      213: 8924261499527765109
+    second: KP_Ghost_0000_21
+  - first:
+      213: -6717182711167211477
+    second: KP_Ghost_0000_22
+  - first:
+      213: 5677477060777298606
+    second: KP_Ghost_0000_23
+  - first:
+      213: -8659513669546040727
+    second: KP_Ghost_0000_24
+  - first:
+      213: 4555059940545910763
+    second: KP_Ghost_0000_25
+  - first:
+      213: -4310039967627277262
+    second: KP_Ghost_0000_26
+  - first:
+      213: -3938787549724770695
+    second: KP_Ghost_0000_27
+  - first:
+      213: -5683346092280749178
+    second: KP_Ghost_0000_28
+  - first:
+      213: 5546091446176350312
+    second: KP_Ghost_0000_29
+  - first:
+      213: -1079490688077608329
+    second: KP_Ghost_0000_30
+  - first:
+      213: -3269790305779850289
+    second: KP_Ghost_0000_31
+  - first:
+      213: -5372525798152042007
+    second: KP_Ghost_0000_32
+  - first:
+      213: -3787676411881351067
+    second: KP_Ghost_0000_33
+  - first:
+      213: -1104166237131112430
+    second: KP_Ghost_0000_34
+  - first:
+      213: 4724030390136419553
+    second: KP_Ghost_0000_35
+  - first:
+      213: 1573707605021364408
+    second: KP_Ghost_0000_36
+  - first:
+      213: -3801901006834106055
+    second: KP_Ghost_0000_37
+  - first:
+      213: 8843859021384169770
+    second: KP_Ghost_0000_38
+  - first:
+      213: 741092877752525070
+    second: KP_Ghost_0000_39
+  - first:
+      213: 3800243201023254950
+    second: KP_Ghost_0000_40
+  - first:
+      213: -8466551332039368549
+    second: KP_Ghost_0000_41
+  - first:
+      213: 4709914958933972068
+    second: KP_Ghost_0000_42
+  - first:
+      213: -7300813342569647663
+    second: KP_Ghost_0000_43
+  - first:
+      213: 5907289025343783124
+    second: KP_Ghost_0000_44
+  - first:
+      213: 2425406303325395852
+    second: KP_Ghost_0000_45
+  - first:
+      213: -5687965731078559915
+    second: KP_Ghost_0000_46
+  - first:
+      213: -817539679096820185
+    second: KP_Ghost_0000_47
+  - first:
+      213: 4693810839273593260
+    second: KP_Ghost_0000_48
+  - first:
+      213: 4818040821646107576
+    second: KP_Ghost_0000_49
+  - first:
+      213: 2954423497260800157
+    second: KP_Ghost_0000_50
+  - first:
+      213: -2767065847739279922
+    second: KP_Ghost_0000_51
+  - first:
+      213: -1955607589282859279
+    second: KP_Ghost_0000_52
+  - first:
+      213: -6603442065159890515
+    second: KP_Ghost_0000_53
+  - first:
+      213: -5506985005001093370
+    second: KP_Ghost_0000_54
+  - first:
+      213: -8268334331648784044
+    second: KP_Ghost_0000_55
+  - first:
+      213: -8885722229015583745
+    second: KP_Ghost_0000_56
+  - first:
+      213: 7386399629436972103
+    second: KP_Ghost_0000_57
+  - first:
+      213: 6096460611512183378
+    second: KP_Ghost_0000_58
+  - first:
+      213: -3317768860974566758
+    second: KP_Ghost_0000_59
+  - first:
+      213: -3343550020294785194
+    second: KP_Ghost_0000_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KP_Ghost_0000_0
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 96
+        width: 528
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201a675ca4a1235a0800000000000000
+      internalID: -6543138400173121278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_1
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 441
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33d429a0aedf4df0800000000000000
+      internalID: -193691477339745477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 404
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768af69f5c71f4470800000000000000
+      internalID: 8380943570620622951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 409
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656324d37782d68f0800000000000000
+      internalID: -545735487247993258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 415
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d6ba5e751c3df0800000000000000
+      internalID: -199260651079150063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 395
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e457c5b2ef930e70800000000000000
+      internalID: 9080277069770216675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 393
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b28d206e3c40c10800000000000000
+      internalID: 2018953925626440491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_7
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 403
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf6ba6a0bf6d59d0800000000000000
+      internalID: -2783946190143918118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_8
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 398
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef678b1105d0dc0800000000000000
+      internalID: -3671190084197613992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_9
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 397
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5cbe08700c936e0800000000000000
+      internalID: -1857242232853379597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_10
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 403
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42820f88204219da0800000000000000
+      internalID: -5939926840218998748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_11
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 398
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29722ec7402e242a0800000000000000
+      internalID: -6754587982199380078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_12
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 387
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cab91e8c01759b0800000000000000
+      internalID: -5091582398754476941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_13
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 388
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99badcced0b07f7a0800000000000000
+      internalID: -6343589395692672103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_14
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 392
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a12474d26f54740800000000000000
+      internalID: 5135781624415394378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_15
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 370
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a726609e23d630800000000000000
+      internalID: 3950552495858099341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_16
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 382
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460dc23bbd3771450800000000000000
+      internalID: 6059439211091382372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_17
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 375
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24c1e80eb288040800000000000000
+      internalID: 4650014858716922549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_18
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 380
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fe290f1f826e70800000000000000
+      internalID: 9106998759957393819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_19
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 363
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f30eb15fc38780800000000000000
+      internalID: -8681867706652954069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_20
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d65fae0a1be0460800000000000000
+      internalID: 7209895358161579332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_21
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 366
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c1c021d8859db70800000000000000
+      internalID: 8924261499527765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_22
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 367
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ab71d9e5c7c2a0800000000000000
+      internalID: -6717182711167211477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 365
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4f046e437ace40800000000000000
+      internalID: 5677477060777298606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_24
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 344
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a117923a33d780800000000000000
+      internalID: -8659513669546040727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_25
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 355
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d9d6d1e2d63f30800000000000000
+      internalID: 4555059940545910763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_26
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 360
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c07d92c79af24c0800000000000000
+      internalID: -4310039967627277262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 355
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e7ce4979d9659c0800000000000000
+      internalID: -3938787549724770695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_28
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 343
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683600a37d2b021b0800000000000000
+      internalID: -5683346092280749178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_29
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 352
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8608c2d29cca7fc40800000000000000
+      internalID: 5546091446176350312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_30
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 348
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77acac640f0e401f0800000000000000
+      internalID: -1079490688077608329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_31
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 329
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e9fd7a0f5f92d0800000000000000
+      internalID: -3269790305779850289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_32
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9868e5044f075b0800000000000000
+      internalID: -5372525798152042007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_33
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689fa11f587f6bc0800000000000000
+      internalID: -3787676411881351067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_34
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 337
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21002de48a63da0f0800000000000000
+      internalID: -1104166237131112430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_35
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 341
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43b306c902f8140800000000000000
+      internalID: 4724030390136419553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_36
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 334
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b011a99abee6d510800000000000000
+      internalID: 1573707605021364408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93104787d2fec3bc0800000000000000
+      internalID: -3801901006834106055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_38
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 324
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29bc355ce2bbba70800000000000000
+      internalID: 8843859021384169770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_39
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 329
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e20cbb04e84a00800000000000000
+      internalID: 741092877752525070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_40
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 311
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1a5198e0d2db430800000000000000
+      internalID: 3800243201023254950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_41
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ee25db64c08a80800000000000000
+      internalID: -8466551332039368549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_42
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 305
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464de8173bafc5140800000000000000
+      internalID: 4709914958933972068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_43
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 299
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d134b042fc4eaa90800000000000000
+      internalID: -7300813342569647663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_44
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d00e250218eaf150800000000000000
+      internalID: 5907289025343783124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_45
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 292
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b14b9be26c8a120800000000000000
+      internalID: 2425406303325395852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_46
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 289
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557a770cd494011b0800000000000000
+      internalID: -5687965731078559915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 293
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ea5ad4ef387a4f0800000000000000
+      internalID: -817539679096820185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 269
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d7c5e614c32140800000000000000
+      internalID: 4693810839273593260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_49
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 266
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b32c87a99e1dd240800000000000000
+      internalID: 4818040821646107576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_50
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d981c4e7488300920800000000000000
+      internalID: 2954423497260800157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_51
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 253
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59263a5486999d0800000000000000
+      internalID: -2767065847739279922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_52
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6bcb042494cd4e0800000000000000
+      internalID: -1955607589282859279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_53
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 246
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d543ad6cdb54a0800000000000000
+      internalID: -6603442065159890515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_54
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 240
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fc181b0524393b0800000000000000
+      internalID: -5506985005001093370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_55
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 245
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45948ed9bb9f04d80800000000000000
+      internalID: -8268334331648784044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_56
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ebb616b29fa480800000000000000
+      internalID: -8885722229015583745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_57
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 226
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ceaa10453c18660800000000000000
+      internalID: 7386399629436972103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_58
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a285030aafa9450800000000000000
+      internalID: 6096460611512183378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_59
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9232ca9ccae4f1d0800000000000000
+      internalID: -3317768860974566758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KP_Ghost_0000_60
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 179
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657449fa8f25991d0800000000000000
+      internalID: -3343550020294785194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KP_Ghost_0000_0: -6543138400173121278
+      KP_Ghost_0000_1: -193691477339745477
+      KP_Ghost_0000_10: -5939926840218998748
+      KP_Ghost_0000_11: -6754587982199380078
+      KP_Ghost_0000_12: -5091582398754476941
+      KP_Ghost_0000_13: -6343589395692672103
+      KP_Ghost_0000_14: 5135781624415394378
+      KP_Ghost_0000_15: 3950552495858099341
+      KP_Ghost_0000_16: 6059439211091382372
+      KP_Ghost_0000_17: 4650014858716922549
+      KP_Ghost_0000_18: 9106998759957393819
+      KP_Ghost_0000_19: -8681867706652954069
+      KP_Ghost_0000_2: 8380943570620622951
+      KP_Ghost_0000_20: 7209895358161579332
+      KP_Ghost_0000_21: 8924261499527765109
+      KP_Ghost_0000_22: -6717182711167211477
+      KP_Ghost_0000_23: 5677477060777298606
+      KP_Ghost_0000_24: -8659513669546040727
+      KP_Ghost_0000_25: 4555059940545910763
+      KP_Ghost_0000_26: -4310039967627277262
+      KP_Ghost_0000_27: -3938787549724770695
+      KP_Ghost_0000_28: -5683346092280749178
+      KP_Ghost_0000_29: 5546091446176350312
+      KP_Ghost_0000_3: -545735487247993258
+      KP_Ghost_0000_30: -1079490688077608329
+      KP_Ghost_0000_31: -3269790305779850289
+      KP_Ghost_0000_32: -5372525798152042007
+      KP_Ghost_0000_33: -3787676411881351067
+      KP_Ghost_0000_34: -1104166237131112430
+      KP_Ghost_0000_35: 4724030390136419553
+      KP_Ghost_0000_36: 1573707605021364408
+      KP_Ghost_0000_37: -3801901006834106055
+      KP_Ghost_0000_38: 8843859021384169770
+      KP_Ghost_0000_39: 741092877752525070
+      KP_Ghost_0000_4: -199260651079150063
+      KP_Ghost_0000_40: 3800243201023254950
+      KP_Ghost_0000_41: -8466551332039368549
+      KP_Ghost_0000_42: 4709914958933972068
+      KP_Ghost_0000_43: -7300813342569647663
+      KP_Ghost_0000_44: 5907289025343783124
+      KP_Ghost_0000_45: 2425406303325395852
+      KP_Ghost_0000_46: -5687965731078559915
+      KP_Ghost_0000_47: -817539679096820185
+      KP_Ghost_0000_48: 4693810839273593260
+      KP_Ghost_0000_49: 4818040821646107576
+      KP_Ghost_0000_5: 9080277069770216675
+      KP_Ghost_0000_50: 2954423497260800157
+      KP_Ghost_0000_51: -2767065847739279922
+      KP_Ghost_0000_52: -1955607589282859279
+      KP_Ghost_0000_53: -6603442065159890515
+      KP_Ghost_0000_54: -5506985005001093370
+      KP_Ghost_0000_55: -8268334331648784044
+      KP_Ghost_0000_56: -8885722229015583745
+      KP_Ghost_0000_57: 7386399629436972103
+      KP_Ghost_0000_58: 6096460611512183378
+      KP_Ghost_0000_59: -3317768860974566758
+      KP_Ghost_0000_6: 2018953925626440491
+      KP_Ghost_0000_60: -3343550020294785194
+      KP_Ghost_0000_7: -2783946190143918118
+      KP_Ghost_0000_8: -3671190084197613992
+      KP_Ghost_0000_9: -1857242232853379597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
