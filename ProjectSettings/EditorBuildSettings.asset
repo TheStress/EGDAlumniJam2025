@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/MicroGameSystem/Scenes/MainMenu.unity
     guid: 6c83d3a446aebcd48a617d732e7dffb4
   - enabled: 1
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MicroGameSystem/Scenes/Test3D.unity
     guid: ef5058c678e121543829d6cf0671a05b
+  - enabled: 1
+    path: Assets/NelsonLieu/NLRazorFinder/NLFindRazorBlade.unity
+    guid: 8f9000d1664633d40946a500d36bfb5e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
