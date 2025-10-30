@@ -8,11 +8,13 @@ namespace Nelson
         [SerializeField] List<Sprite> candyStages = new List<Sprite>();
         [SerializeField] Vector2 healthRange = new Vector2(0, 0);
         [SerializeField] GameObject bladePrefab;
+        [SerializeField] List<AudioClip> wraperSounds = new List<AudioClip>();
 
         int currentHealth = 0;
         ObjectShake objectShake;
         SpriteRenderer spriteRenderer;
         bool hasRazor = false;
+        AudioSource audioSource;
 
         private void Start()
         {
@@ -20,12 +22,16 @@ namespace Nelson
             spriteRenderer = GetComponent<SpriteRenderer>();
             currentHealth = Random.Range((int)healthRange.x, (int)healthRange.y);
             spriteRenderer.sprite = candyStages[currentHealth-1];
+            audioSource = GetComponent<AudioSource>();
         }
 
         private void OnMouseDown()
         {
             currentHealth--;
             objectShake.StartShake();
+            audioSource.clip = wraperSounds[Random.Range(0, wraperSounds.Count)];
+            audioSource.Stop();
+            audioSource.Play();
             if (currentHealth <= 0)
             {
                 if(hasRazor)
