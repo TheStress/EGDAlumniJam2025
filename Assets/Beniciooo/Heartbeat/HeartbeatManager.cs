@@ -16,6 +16,9 @@ namespace Benicio
         public SpriteRenderer heartSprite;
         Animator animator;
         public float popValue;
+        AudioSource audio;
+        public AudioClip heartbeat;
+        public AudioClip popSound;
         public override void OnEndMicroGame()
         {
 
@@ -31,6 +34,7 @@ namespace Benicio
             heartMeter = winValue;
             debugWinVal.fillAmount = winValue;
             animator = GetComponent<Animator>();
+            audio = GetComponent<AudioSource>();
         }
 
         // Update is called once per frame
@@ -71,6 +75,7 @@ namespace Benicio
                 }
                 if (Input.GetKeyDown(KeyCode.Space))
                 {
+                    audio.PlayOneShot(heartbeat);
                     heartMeter += heartAdd;
                     animator.Play("heartbeatAnim", 0, 0);
                 }
@@ -79,6 +84,7 @@ namespace Benicio
                 {
                     win = false;
                     finished = true;
+                    audio.PlayOneShot(popSound);
                     animator.Play("heartPop");
                     debugMeter.color = Color.red;
                 }
