@@ -41,6 +41,15 @@ public class ClickDrag : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IPoi
         _transform.position = new Vector3(Random.Range(spawnMinX, spawnMaxX), Random.Range(spawnMinY, spawnMaxY));
     }
 
+    public void Update()
+    {
+        if(!canDrag && inPlace)
+        {
+            _transform.position = new Vector3(snapPosX, snapPosY, 0);
+
+        }
+    }
+
     public void OnPointerDown(PointerEventData eventData)
     {
         Debug.Log("ckick");
@@ -60,6 +69,8 @@ public class ClickDrag : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IPoi
                 //can no longer drag
                 //send transform to inPlace ps
                 Debug.Log("snap in place");
+                _transform.position = new Vector3(snapPosX, snapPosY, 0);
+
                 canDrag = false;
             }
 
@@ -79,9 +90,9 @@ public class ClickDrag : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IPoi
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        
+
         //with this here, body part will snap in place AFTER player lets go
-        
+        Debug.Log("drag end");
 
     }
 
