@@ -30,6 +30,7 @@ public class GameManager : MicroGameManager
         if (left_arm.inPlace &&  right_arm.inPlace && left_leg.inPlace && right_leg.inPlace) 
         {
             Debug.Log("you win");
+            win = true;
         }
     }
 }
