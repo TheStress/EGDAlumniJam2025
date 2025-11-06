@@ -2600,7 +2600,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   microGameSeneNames:
   - MarkZombie
-  - NLFindRazorBlade
   OnCompleteSceneLoad:
     m_PersistentCalls:
       m_Calls: []

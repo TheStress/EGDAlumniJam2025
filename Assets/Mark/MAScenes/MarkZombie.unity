@@ -594,37 +594,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &268797402
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 268797403}
-  m_Layer: 0
-  m_Name: Zombie Moving
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &268797403
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 268797402}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.77, y: 1.5073636, z: -10.074894}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &334857620
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,6 +894,8 @@ MonoBehaviour:
   left_leg: {fileID: 207141493}
   right_leg: {fileID: 1371159246}
   bgmusic: {fileID: 1817943068}
+  bg: {fileID: 1750378449}
+  green: {fileID: 21300000, guid: cd2c92f1240ab054fa681da08f466d92, type: 3}
 --- !u!4 &594684528
 Transform:
   m_ObjectHideFlags: 0
@@ -1113,7 +1084,7 @@ GameObject:
   m_Component:
   - component: {fileID: 749290019}
   m_Layer: 0
-  m_Name: Zombie Static
+  m_Name: Zombie Static Parts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1243,7 +1214,7 @@ Transform:
   m_GameObject: {fileID: 861085202}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.98, y: -0.13263637, z: 0}
+  m_LocalPosition: {x: -2, y: -0.09, z: 0}
   m_LocalScale: {x: 15.090546, y: 15.090546, z: 15.090546}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1933,7 +1904,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1750378450
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1976,7 +1947,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1019533689
-  m_SortingLayer: 2
+  m_SortingLayer: -1
   m_SortingOrder: -100
   m_Sprite: {fileID: 21300000, guid: a7b73e9e973aef34aabc6cdefc1900c3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2140,12 +2111,11 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 694722952}
+  - {fileID: 594684528}
+  - {fileID: 1817943069}
   - {fileID: 749290019}
-  - {fileID: 268797403}
   - {fileID: 861085205}
   - {fileID: 186911577}
   - {fileID: 207141495}
   - {fileID: 1371159248}
-  - {fileID: 594684528}
-  - {fileID: 1817943069}
   - {fileID: 1750378451}

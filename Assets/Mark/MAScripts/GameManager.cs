@@ -7,6 +7,8 @@ public class GameManager : MicroGameManager
     public ClickDrag left_leg;
     public ClickDrag right_leg;
     public AudioSource bgmusic;
+    public GameObject bg;
+    public Sprite green;
     
     public override void OnEndMicroGame()
     {
@@ -29,7 +31,7 @@ public class GameManager : MicroGameManager
         base.Update();
         if (left_arm.inPlace &&  right_arm.inPlace && left_leg.inPlace && right_leg.inPlace) 
         {
-            Debug.Log("you win");
+            bg.GetComponent<SpriteRenderer>().sprite = green;
             win = true;
         }
     }
