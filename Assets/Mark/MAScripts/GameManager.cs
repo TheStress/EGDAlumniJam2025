@@ -6,16 +6,16 @@ public class GameManager : MicroGameManager
     public ClickDrag right_arm;
     public ClickDrag left_leg;
     public ClickDrag right_leg;
-
+    public AudioSource bgmusic;
     
     public override void OnEndMicroGame()
     {
-        
+        bgmusic.Stop();
     }
 
     public override void OnStartMicroGame()
     {
-        
+        bgmusic.Play();
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
