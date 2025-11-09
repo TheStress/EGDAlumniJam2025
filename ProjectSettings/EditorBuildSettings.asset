@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Beniciooo/Heartbeat/HeartBeat.unity
     guid: 0638a25fa07ecf449b1bc86b497dddf8
   - enabled: 1
+    path: Assets/LakshmiSegura/Whack/WhackAZombie.unity
+    guid: 28b87283d8792421592bb4129d2548a1
+  - enabled: 1
     path: Assets/MicroGameSystem/Scenes/Test2D.unity
     guid: e3cc57b48a6e00443a583cdff8f35b81
   - enabled: 1
