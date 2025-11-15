@@ -22,6 +22,8 @@ namespace Benicio
         public float whackValue;
         public float spawnTime;
         bool climbing;
+        public GameObject zombieJumpscare;
+        public GameObject skeletonJumpscare;
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
@@ -85,8 +87,21 @@ namespace Benicio
 
                 if (climbs[i] > loseCondition)
                 {
+                    if(climbing)
+                    {
+                        hands[i].GetComponentInChildren<SpriteRenderer>().enabled = false;
+                        if (isSkeleton[i])
+                        {
+                            Instantiate(skeletonJumpscare, hands[i].transform.position, Quaternion.identity);
+                        }
+                        else
+                        {
+                            Instantiate(zombieJumpscare, hands[i].transform.position, Quaternion.identity);
+                        }
+                    }
+                    
                     climbing = false;
-                    loseDebug.SetActive(true);
+                    //loseDebug.SetActive(true);
                 }
             }
 

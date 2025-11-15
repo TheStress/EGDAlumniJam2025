@@ -541,6 +541,37 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!1 &344514588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 344514589}
+  m_Layer: 0
+  m_Name: jumpToPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &344514589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344514588}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47, y: -2.7, z: -8.75}
+  m_LocalScale: {x: 2.7597873, y: 2.7597873, z: 2.7597873}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -714,8 +745,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   shovel: {fileID: 2110328137}
-  zombieClimbRate: 0.3
-  skeletonClimbRate: 0.7
+  zombieClimbRate: 0.5
+  skeletonClimbRate: 0.8
   loseCondition: 3
   hands:
   - {fileID: 69300855}
@@ -730,6 +761,8 @@ MonoBehaviour:
   loseDebug: {fileID: 250593725}
   whackValue: 1
   spawnTime: 1
+  zombieJumpscare: {fileID: 5280467910078603245, guid: a0b9936f35c0c6a4a96a386cfbb7d42a, type: 3}
+  skeletonJumpscare: {fileID: 3049586160864047555, guid: bdab25a91fcd86145a11c2c7b5d69464, type: 3}
 --- !u!95 &418531241
 Animator:
   serializedVersion: 7
@@ -1012,7 +1045,7 @@ Transform:
   m_GameObject: {fileID: 756210393}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.26172155, w: 0.96514344}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.69}
   m_LocalScale: {x: 1.0071, y: 1.0071, z: 1.0071}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -1814,6 +1847,14 @@ PrefabInstance:
     - target: {fileID: 2648647720912959078, guid: f085cb0fe1bbe7c4bbd29125c9c25967, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408287756469201921, guid: f085cb0fe1bbe7c4bbd29125c9c25967, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408287756469201921, guid: f085cb0fe1bbe7c4bbd29125c9c25967, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.7
       objectReference: {fileID: 0}
     - target: {fileID: 7891630927837844164, guid: f085cb0fe1bbe7c4bbd29125c9c25967, type: 3}
       propertyPath: m_Name
@@ -2971,3 +3012,4 @@ SceneRoots:
   - {fileID: 985011290}
   - {fileID: 1211655263}
   - {fileID: 1258369408}
+  - {fileID: 344514589}
