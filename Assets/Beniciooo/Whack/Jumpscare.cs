@@ -12,10 +12,13 @@ namespace Benicio
         bool played = false;
         Vector3 startPos;
         Vector3 startScale;
+        AudioSource audioSource;
+        public AudioClip scareSound;
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
             animator = GetComponent<Animator>();
+            audioSource = GetComponent<AudioSource>();
             lerpVal = 0;
             startPos = transform.position;
             startScale = transform.localScale;
@@ -32,8 +35,8 @@ namespace Benicio
 
             if (lerpVal >= 1 && !played)
             {
-                Debug.Log("hi");
                 animator.Play("jumpscareShake");
+                audioSource.PlayOneShot(scareSound);
                 played = true;
             }
             

@@ -24,11 +24,14 @@ namespace Benicio
         bool climbing;
         public GameObject zombieJumpscare;
         public GameObject skeletonJumpscare;
+        AudioSource audioSource;
+        public AudioClip whackSound;
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
             climbing = true;
             animator = GetComponent<Animator>();
+            audioSource = GetComponent<AudioSource>();
             foreach(GameObject hand in hands)
             {
                 hand.transform.localPosition = Vector3.zero;
@@ -114,6 +117,7 @@ namespace Benicio
                 {
                     if(overlap.gameObject == hands[i])
                     {
+                        audioSource.PlayOneShot(whackSound);
                         climbs[i] -= whackValue;
                     }
                 }
